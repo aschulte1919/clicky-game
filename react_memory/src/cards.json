@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "image": "/images/apple.png"
+  },
+  {
+    "id": 2,
+    "name": "Pear",
+    "image": "/images/pear.png"
+  },
+  {
+    "id": 3,
+    "name": "Passion",
+    "image": "/images/passion.png"
+  },
+  {
+    "id": 4,
+    "name": "Kiwi",
+    "image": "/src/images/kiwi.png"
+  },
+  {
+    "id": 5,
+    "name": "Lime",
+    "image": "/src/images/kiwi.png"
+  },
+  {
+    "id": 6,
+    "name": "Orange",
+    "image": "/src/images/orange.png"
+  },
+  {
+    "id": 7,
+    "name": "Unsure",
+    "image": "/srcimages/unsure.png"
+  },
+  {
+    "id": 8,
+    "name": "Pom",
+    "image": "/src/images/pom.png"
+  },
+  {
+    "id": 9,
+    "name": "Watermelon",
+    "image": "/src/images/watermelon.png"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "/src/images/cocunut.png"
+  }
+]
